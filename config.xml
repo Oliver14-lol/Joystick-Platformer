@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.Joystick-app-pretty-cool-right"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Joystick Platformer</name>
+
+  <description>
+      This is a short Platformer game - Keep in mind that this is my first app so dont expect much.
+  </description>
+
+  <author href="https://build.phonegap.com" email="olivcj14@gmail.com">
+      Hardeep Shoker
+  Oliver
+  </author>
+  
+  <icon src="Icon.png" />
+
+</widget>
